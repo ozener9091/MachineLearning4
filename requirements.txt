@@ -1,0 +1,10 @@
+mlflow==3.5.0
+scikit-learn==1.7.2
+pandas
+numpy
+fastapi
+uvicorn[standard]
+pydantic
+matplotlib
+requests
+sqlalchemy>=2.0,<2.1

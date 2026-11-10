@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# MLflow data (база и артефакты)
+mlflow-data/
+mlartifacts/
+mlflow.db
+
+# Экспортированные модели (генерируются заново)
+exported_model/
+
+# Прочее
+.DS_Store
+*.zip
